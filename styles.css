@@ -282,7 +282,7 @@ a{
     margin: 0 auto 100px;
     display: flex;
     flex-direction: row-reverse;
-    overflow: scroll;
+    overflow: hidden;
     min-width: 700px;
 }
 .box2White{
@@ -425,7 +425,7 @@ a{
 }
 footer{
     background-color: rgb(224, 224, 224);
-    height: 20rem;
+    height: 24rem;
     position: relative;
     display: flex;
     flex-direction:row;
@@ -468,3 +468,4 @@ footer{
     /* border: 1px solid red; */
     width: 50px;
 }
+
